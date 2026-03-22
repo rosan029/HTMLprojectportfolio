@@ -163,9 +163,9 @@ div {
 
 /* Hero Images for Pages */
 .hero {
-    width: 500px;
-    height: 900px;
-    background-image: url(Images/IMG_9990.jpeg);
+    width: 400px;
+    height: 600px;
+    background-image: url(Images/IMG_9990.jpg);
     background-size: cover;
     background-position: center;
     align-items: center;
